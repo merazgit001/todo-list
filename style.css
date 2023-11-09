@@ -7,7 +7,7 @@
 /* ----------------------box animation----------------------------- */
  body{
     height:100vh;
-    background-image: linear-gradient(to right, rgb(221, 88, 88), rgb(152, 236, 8), blue);
+    background-image: linear-gradient(to right, rgb(221, 88, 88), black, blue);
 }
 /* 
 .box div{
